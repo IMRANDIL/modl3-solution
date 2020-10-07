@@ -1,0 +1,99 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+    ;
+}
+
+
+#header-nav {
+    background-color: darkgray;
+    padding: 0;
+   
+}
+
+.navbar-brand {
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+
+
+
+
+hr {
+
+    border-width: 2px;
+    border-color: black;
+
+}
+
+
+.navbar-toggler {
+    background-color: white;
+    
+}
+
+button:focus {
+    outline: none;
+   
+
+}
+
+
+
+
+
+button {
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+
+}
+
+
+
+.navbar-nav a {
+    text-align: center;
+    font-weight: bold;
+    color: black !important;
+
+
+
+}
+
+.navbar-nav {
+    background-color: white;
+    border: 2px solid black;
+    position: relative;
+    margin-top: 8px;
+    width: auto;
+}
+
+
+
+
+h3 {
+   
+    margin-top: 20px;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+.row {
+    margin: 7px;
+}
+
+#scroll {
+    height: fit-content;
+    text-align: justify;
+    background-color: darkgray;
+   padding: 20px;
+   margin-top: 15px;
+  
+   
+}
+
